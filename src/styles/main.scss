@@ -1,0 +1,148 @@
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+h1,
+h2,
+h3,
+h4,
+h5 {
+  font-family: Chaparral Pro;
+  font-weight: 400;
+  font-style: italic;
+  font-size: 110%;
+}
+
+span,
+p,
+li {
+  font-family: ITC Franklin Gothic Std;
+  font-style: normal;
+  font-weight: 300;
+}
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+@font-face {
+  font-family: 'ITC Franklin Gothic Std';
+  src: url('./fonts/ITCFranklinGothicStd-DmCp.woff2') format('woff2'),
+    url('./fonts/ITCFranklinGothicStd-DmCp.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'ITC Franklin Gothic Std';
+  src: url('./fonts/ITCFranklinGothicStd-BkCp.woff2') format('woff2'),
+    url('./fonts/ITCFranklinGothicStd-BkCp.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'ITC Franklin Gothic Std';
+  src: url('./fonts/ITCFranklinGothicStd-Hvy.woff2') format('woff2'),
+    url('./fonts/ITCFranklinGothicStd-Hvy.woff') format('woff');
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'ITC Franklin Gothic Std';
+  src: url('./fonts/ITCFranklinGothicStd-DmXCp.woff2') format('woff2'),
+    url('./fonts/ITCFranklinGothicStd-DmXCp.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'ITC Franklin Gothic Std';
+  src: url('./fonts/ITCFranklinGothicStd-DmCd.woff2') format('woff2'),
+    url('./fonts/ITCFranklinGothicStd-DmCd.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'ITC Franklin Gothic Std';
+  src: url('./fonts/ITCFranklinGothicStd-Book.woff2') format('woff2'),
+    url('./fonts/ITCFranklinGothicStd-Book.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'ITC Franklin Gothic Std';
+  src: url('./fonts/ITCFranklinGothicStd-Med.woff2') format('woff2'),
+    url('./fonts/ITCFranklinGothicStd-Med.woff') format('woff');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'ITC Franklin Gothic Std';
+  src: url('./fonts/ITCFranklinGothicStd-Demi.woff2') format('woff2'),
+    url('./fonts/ITCFranklinGothicStd-Demi.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'ITC Franklin Gothic Std';
+  src: url('./fonts/ITCFranklinGothicStd-BkXCp.woff2') format('woff2'),
+    url('./fonts/ITCFranklinGothicStd-BkXCp.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'ITC Franklin Gothic Std';
+  src: url('./fonts/ITCFranklinGothicStd-MdCd.woff2') format('woff2'),
+    url('./fonts/ITCFranklinGothicStd-MdCd.woff') format('woff');
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Chaparral Pro';
+  src: url('./fonts/ChaparralPro-Regular.woff2') format('woff2'),
+    url('./fonts/ChaparralPro-Regular.woff') format('woff');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Chaparral Pro';
+  src: url('./fonts/ChaparralPro-Bold.woff2') format('woff2'),
+    url('./fonts/ChaparralPro-Bold.woff') format('woff');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Chaparral Pro';
+  src: url('./fonts/ChaparralPro-BoldIt.woff2') format('woff2'),
+    url('./fonts/ChaparralPro-BoldIt.woff') format('woff');
+  font-weight: bold;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Chaparral Pro';
+  src: url('./fonts/ChaparralPro-Italic.woff2') format('woff2'),
+    url('./fonts/ChaparralPro-Italic.woff') format('woff');
+  font-weight: normal;
+  font-style: italic;
+  font-display: swap;
+}
