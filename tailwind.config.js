@@ -6,14 +6,14 @@ module.exports = {
     extend: {
       colors: {
         gold: {
-          DEFAULT: "#ba8d00",
-          light: "#F4C942",
-          dark: "#6C5200",
+          DEFAULT: '#ba8d00',
+          light: '#F4C942',
+          dark: '#6C5200',
         },
         silver: {
-          DEFAULT: "#8d8c8b",
-          light: "#EBEAE9",
-          dark: "#353535",
+          DEFAULT: '#8d8c8b',
+          light: '#EBEAE9',
+          dark: '#353535',
         },
       },
     },
