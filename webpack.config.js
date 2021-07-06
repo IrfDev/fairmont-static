@@ -4,7 +4,7 @@ const { HotModuleReplacementPlugin } = require('webpack');
 const path = require('path');
 const webpack = require('webpack');
 
-const views = ['policy', 'terms-of-service'];
+const views = ['privacy', 'terms-of-service'];
 
 module.exports = {
   entry: {
